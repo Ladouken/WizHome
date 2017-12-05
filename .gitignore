@@ -1,0 +1,11 @@
+.vs/
+.vscode/
+
+Intermediate/
+Saved/
+
+*_BuiltData.uasset
+
+*.sln
+*.db
+*.swp
